@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // CTA que abre o WhatsApp em nova aba
   if (ctaButton) {
-    const whatsappUrl = 'https://wa.me/5565992469351?text=Olá%20Seleta%20Cuiabá%2C%20gostaria%20de%20mais%20informações.';
+    const whatsappUrl = 'https://wa.me/5565984038405?text=Olá%20Seleta%20Cuiabá%2C%20gostaria%20de%20mais%20informações.';
     ctaButton.addEventListener('click', () => {
       window.open(whatsappUrl, '_blank');
     });
